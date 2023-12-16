@@ -1,0 +1,4 @@
+# Chart 3
+
+The purpose of creating this chart was to see the amount of characters for different categories of sexual orientation. This information is important in the domain of LGBTQIA+ representation in cartoons because it shows the diversity of orientation and is more inclusive to a variety of sexual orientations. After finding and graphing the sexual orientation of characters in cartoons, we found that sexual orientations of characters that were known and determined mostly consisted of Gay and Lesbian orientations. We also found that Bisexual and Queer had also half the amount as Gay and Lesbian characters.
+Finally, we found that there were very little asexual, pansexual, and polyamourous characters.

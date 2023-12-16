@@ -1,0 +1,3 @@
+# Chart 2
+
+Our second chart tackled the question of how the inclusivity of LGBTQIA+ characters and themes in cartoons has evolved over time. We found this question very important as we wondered how progress has been made, and whether it was steady over a long period of time or rather very quickly very recently. From our line plot, we gathered that there was a very small yet steady increase of LGBTQIA+ inclusive cartoons from roughly 1983 to 2010. From then on to 2020, there has been sharp increases and decreases in the number of LGBTQIA+ inclusive cartoons, which we found very interesting as we assumed that there would be small steady growth up until recently when a large and continuous spike upwards in the number of LGBTQIA+ inclusive cartoons would occur.
